@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intuit-sign-up-form-clone/static/css/main.8a39fbc7.css",
+    "main.js": "/intuit-sign-up-form-clone/static/js/main.3da158e3.js",
+    "index.html": "/intuit-sign-up-form-clone/index.html",
+    "main.8a39fbc7.css.map": "/intuit-sign-up-form-clone/static/css/main.8a39fbc7.css.map",
+    "main.3da158e3.js.map": "/intuit-sign-up-form-clone/static/js/main.3da158e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a39fbc7.css",
+    "static/js/main.3da158e3.js"
+  ]
+}
