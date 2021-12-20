@@ -1,10 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Header from './components/header'
+import Form from './components/Form'
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Header />
+    <Form />
   </React.StrictMode>,
   document.getElementById('root')
 );
+
